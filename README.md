@@ -1,10 +1,10 @@
-## PrimerProject
+# PrimerProject
 A cgi-bin driven web application that uses BASH commands to consume file information.
 
-# Project Summary Status
+## Project Summary Status
 The project is complete and fulfills all of the project requirements.
 
-# Activity Log
+## Activity Log
 
 09/07/16 - Setup the BASH environment on my Windows home computer using the CSUN SSH Server. 
 
