@@ -1,6 +1,9 @@
 ## PrimerProject
 A cgi-bin driven web application that uses BASH commands to consume file information.
 
+## Project Summary Status
+The project is complete and fulfills all of the project requirements.
+
 ## Activity Log
 
 09/07/16 - Setup the BASH environment on my Windows home computer using the CSUN SSH Server. 
@@ -12,3 +15,4 @@ A cgi-bin driven web application that uses BASH commands to consume file informa
 	       - Made my cgi-bin inaccessbile to avoid prying eyes. 
 
 09/10/16 - Finished the bash script to pass $QUERY_STRING from our input form into the bash command 'curl'. 
+         - Added parsing to our QUERY_STRING
